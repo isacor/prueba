@@ -1,0 +1,9 @@
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\bin\Debug\tragaperrasVisual.exe.config
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\bin\Debug\tragaperrasVisual.exe
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\bin\Debug\tragaperrasVisual.pdb
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\obj\Debug\tragaperrasVisual.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\obj\Debug\tragaperrasVisual.Tragaperras.resources
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\obj\Debug\tragaperrasVisual.Properties.Resources.resources
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\obj\Debug\tragaperrasVisual.csproj.GenerateResource.Cache
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\obj\Debug\tragaperrasVisual.exe
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\JUNIO\listas\tragaperrasVisual\tragaperrasVisual\obj\Debug\tragaperrasVisual.pdb
